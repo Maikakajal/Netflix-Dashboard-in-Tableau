@@ -1,0 +1,1 @@
+This Tableau dashboard provides an in-depth analysis of Netflix's content library, focusing on factors such as genre, release year, country, and viewer ratings. By leveraging this data, users can explore global content distribution trends, understand audience preferences, and gain insights into Netflix's content strategy.
